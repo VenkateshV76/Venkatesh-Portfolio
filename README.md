@@ -6,19 +6,17 @@ This portfolio showcases my journey as a **B.Tech Computer Science student and A
 
 ## 🌐 Portfolio
 
-**Live Portfolio:**
-Add your deployed portfolio link here after deployment.
+**Live Portfolio:**  
+https://venkateshv76.github.io/
 
-**LinkedIn:**
+**LinkedIn:**  
 linkedin.com/in/venkatesh-vinjamuri-930145372
 
-**GitHub:**
+**GitHub:**  
 github.com/VenkateshV76
 
-**Email:**
-[venkateshvinjamuri8@gmail.com](mailto:venkateshvinjamuri8@gmail.com)
-
----
+**Email:**  
+venkateshvinjamuri8@gmail.com
 
 ## 👨‍💻 About Me
 
